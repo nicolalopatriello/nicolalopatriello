@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Nicola
+- 🌱 I’m currently working as Frontend Developer
